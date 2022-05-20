@@ -8,3 +8,5 @@ const generateColor = () => {
 }
 
 btn.addEventListener('click', generateColor)
+
+generateColor()
